@@ -18,9 +18,9 @@ It provides ready-to-use **presets** (creative, concise, exam) that automaticall
 
 ## 🎥 Demo
 
-![Digit Recognizer Demo](media/demo.gif)
-
-*(Above: a screen recording of the Tkinter GUI, saved as a GIF for GitHub preview.)*
+![Prompt Enhancer Extension Demo](media/demo.gif)
+Or watch the video:  
+[![Watch the demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://youtu.be/YOUR_VIDEO_ID)
 
 ---
 
