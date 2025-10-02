@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Prompt Enhancer</title>
+  <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+  <h1>Prompt Enhancer</h1>
+  <textarea id="input" placeholder="Enter your prompt..."></textarea>
+
+  <div class="buttons">
+    <button data-preset="creative">Creative</button>
+    <button data-preset="concise">Concise</button>
+    <button data-preset="exam">Exam</button>
+  </div>
+
+  <textarea id="output" placeholder="Enhanced prompt will appear here..." readonly></textarea>
+  <button id="copy">Copy</button>
+
+  <script type="module" src="popup.js"></script>
+</body>
+</html>
