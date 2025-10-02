@@ -7,9 +7,10 @@ It provides ready-to-use **presets** (creative, concise, exam) that automaticall
 
 ## 📛 Badges
 
-![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-Deep%20Learning-red?style=for-the-badge&logo=keras&logoColor=white)
+![Gemini API](https://img.shields.io/badge/Powered%20by-Gemini_API-orange?logo=google)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?logo=javascript)
+![Node.js](https://img.shields.io/badge/Node.js-18+-brightgreen?logo=node.js)
+![Chrome Extension](https://img.shields.io/badge/Chrome-Extension-blue?logo=googlechrome)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vickramv)
 
